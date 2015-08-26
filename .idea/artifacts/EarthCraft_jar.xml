@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EarthCraft:jar">
+    <output-path>$PROJECT_DIR$/dist/plugins</output-path>
+    <root id="archive" name="EarthCraft.jar">
+      <element id="module-output" name="Settlements" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/settlements/plugin.yml" />
+    </root>
+  </artifact>
+</component>
